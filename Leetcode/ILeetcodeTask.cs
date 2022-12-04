@@ -10,6 +10,5 @@ namespace Leetcode
     {
         string Name { get; }
         bool Trace { set; get; }
-        Task Run();
     }
 }
